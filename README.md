@@ -6,3 +6,5 @@ Usando git junto a github que es un repositorio remoto
 This repository is built step by step in the tutorial.
 
 Modificar readme desde github
+
+rama en local para subir a github
